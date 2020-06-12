@@ -1,0 +1,40 @@
+{
+  "project_info": {
+    "project_number": "753487979970",
+    "firebase_url": "https://silverbell-bb677.firebaseio.com",
+    "project_id": "silverbell-bb677",
+    "storage_bucket": "silverbell-bb677.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:753487979970:android:673f16b97bff1eda",
+        "android_client_info": {
+          "package_name": "com.laon.silverbell"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "753487979970-mrjnrk9cnn8ba1ekcah574a4ddvcfp11.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyDT-w2kKCMHMxslwvGn_hHDGLXM44UOB_w"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "753487979970-mrjnrk9cnn8ba1ekcah574a4ddvcfp11.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
